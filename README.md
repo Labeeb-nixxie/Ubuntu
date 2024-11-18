@@ -39,7 +39,7 @@ dism.exe /online /enable-feature /featurename:Microsoft-Hyper-V-All /all /norest
     Restart your PC after running the commands.
 
 
-### 2. Update and Upgrade linux machine and install node and nvm
+### 2. Update and Upgrade linux machine and install node
 
 ```sh
 sudo apt update
